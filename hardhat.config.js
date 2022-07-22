@@ -48,7 +48,7 @@ module.exports = {
       url: 'http://localhost:8545'
     } // See options below
   },
-  // defaultNetwork: "hardhat",
+  defaultNetwork: "hardhat",
   // defaultNetwork: "rinkeby",
   // etherscan: {
   //   apiKey: ETHERSCAN_API_KEY,
